@@ -141,19 +141,19 @@ I enjoy turning ideas into production-focused systems with strong engineering fu
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hpate252&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpate252&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hpate252&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpate252&layout=compact&theme=transparent&hide_border=true&bg_color=00000000" height="170"/>
 </p>
 
 ## 📈 Contribution Calendar
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hpate252&theme=react-dark&bg_color=00000000&color=4F8EF7&line=4F8EF7&point=FFFFFF&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hpate252&theme=react-dark&bg_color=00000000&color=4F8EF7&line=4F8EF7&point=FFFFFF&hide_border=true" />
 </p>
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=hpate252&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=hpate252&theme=transparent&hide_border=true&background=00000000" />
 </p>
 
 ---
