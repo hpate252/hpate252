@@ -154,12 +154,12 @@ I enjoy turning ideas into production-focused systems with strong engineering fu
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hpate252&theme=tokyo-night&hide_border=true" />
 </p>
 
----
 ## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=hpate252&theme=tokyonight&hide_border=true" />
 </p>
+---
 
 ## 🌱 Current Focus
 
