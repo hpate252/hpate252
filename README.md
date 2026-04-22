@@ -1,130 +1,164 @@
-  <h1 align="center">Hi 👋, I'm Hetansh Patel</h1>
+<!-- HERO -->
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Hetansh Patel</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=4F8EF7&center=true&vCenter=true&width=900&lines=Master's+Student+in+Computer+Science+at+ASU;Software+Engineer+%7C+Backend+Developer+%7C+Cloud+Enthusiast;Building+Scalable+Systems%2C+APIs%2C+and+ML-Driven+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=900&lines=Master's+Student+in+Computer+Science+at+ASU;Software+Engineer+%7C+Backend+Developer+%7C+Cloud+Engineer;Building+Scalable+Systems%2C+APIs%2C+and+ML-Driven+Applications;Passionate+about+Distributed+Systems+and+Software+Engineering" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/patelhetansh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://myportfolio-hetanshp.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="mailto:hpate252@asu.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://komarev.com/ghpvc/?username=hpate252&label=Profile%20Views&color=0e75b6&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=hpate252&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+  </a>
+  <a href="https://github.com/hpate252?tab=followers">
+    <img src="https://img.shields.io/github/followers/hpate252?label=Followers&style=for-the-badge&color=1f6feb" alt="followers"/>
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/patelhetansh">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://myportfolio-hetanshp.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="mailto:hpate252@asu.edu">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=120&section=header"/>
 
 ---
 
-## 🚀 About Me
+## <img src="https://img.icons8.com/fluency/28/about.png" width="24"/> About Me
 
-I’m a **Master’s student in Computer Science at Arizona State University** and a software engineer passionate about building **scalable backend systems**, **cloud-native applications**, and **machine learning-driven solutions**.
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-My interests include:
-- **Software Engineering**
-- **Backend Development**
-- **Cloud Infrastructure**
-- **Distributed Systems**
-- **Applied Machine Learning**
+I’m a **Master’s student in Computer Science at Arizona State University** and a software engineer focused on building:
 
-I enjoy turning ideas into reliable, efficient, and production-focused systems with strong engineering fundamentals in **system design**, **APIs**, **databases**, **testing**, and **scalable architecture**.
+- scalable **backend systems**
+- robust **cloud-native applications**
+- reliable **distributed systems**
+- impactful **machine learning solutions**
 
----
+I enjoy turning ideas into production-focused systems with strong engineering fundamentals in **system design, APIs, databases, testing, software architecture, and performance**.
 
-## 🎓 Education
+### What I’m focused on
+- Backend Engineering and API Development
+- Cloud Infrastructure and Distributed Systems
+- Software Testing and Engineering Best Practices
+- Applied Machine Learning and Intelligent Systems
 
-- **Arizona State University** — Master's in Computer Science  
-  `Aug 2025 - May 2027`  
-  GPA: **3.78/4.0**
-
-- **IITE (Indus University)** — Bachelor's in Computer Science  
-  `Aug 2021 - Jun 2025`  
-  GPA: **3.67/4.0**
+<br clear="right"/>
 
 ---
 
-## 🛠 Tech Stack
+## <img src="https://img.icons8.com/color/28/graduation-cap.png" width="24"/> Education
 
-### **Languages**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+🎓 **Arizona State University**  
+**Master's in Computer Science**  
+`Aug 2025 - May 2027`  
+**GPA:** `3.78 / 4.0`
+
+🎓 **IITE (Indus University)**  
+**Bachelor's in Computer Science**  
+`Aug 2021 - Jun 2025`  
+**GPA:** `3.67 / 4.0`
+
+---
+
+## <img src="https://img.icons8.com/color/28/briefcase.png" width="24"/> Experience
+
+### **Graduate Student Assistant — Arizona State University**
+`Aug 2025 - Present`
+- Reviewed **Java** assignments and supported software engineering instruction
+- Evaluated **JUnit testing** integrations with **H2 Database**
+- Guided students in debugging, implementation, and software design concepts
+
+### **Software Engineer — X-Logic**
+`Dec 2024 - Jul 2025`
+- Built a **Python + Flask** application for packaging material estimation
+- Reduced calculation errors and improved process efficiency
+- Developed **REST APIs** for e-invoice automation and GST-related data retrieval
+
+### **Software Engineer Intern — Data Nectar Solutions**
+`May 2023 - Jun 2023`
+- Designed and optimized **SQL Server schemas**
+- Improved query performance using indexing and schema design
+- Built secure **PHP backend CRUD modules** for data-driven applications
+
+---
+
+## <img src="https://img.icons8.com/color/28/source-code.png" width="24"/> Tech Stack
+
+### Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,nodejs" />
 </p>
 
-### **Frameworks & Libraries**
-<p>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+### Frameworks and Libraries
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flask,react,nextjs,django,tailwind,tensorflow,pytorch" />
 </p>
 
-### **Cloud, DevOps & Tools**
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+### Cloud, DevOps and Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,git,github,postman" />
 </p>
 
-### **Databases & APIs**
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+### Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_APIs-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
   <img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge"/>
-</p>
-
-### **Software Engineering**
-<p>
-  <img src="https://img.shields.io/badge/OOP-5C2D91?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SOLID_Principles-4B0082?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MVC-1E90FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Agile-FF4088?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CI%2FCD-222222?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Unit_Testing-009688?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 </p>
 
 ---
 
-## 📌 Featured Projects
+## <img src="https://img.icons8.com/color/28/rocket--v1.png" width="24"/> Featured Projects
 
-### **Elastic Face Recognition & Federated Learning**
-- Built a scalable **AWS-based distributed system** using **EC2, S3, SQS, and DynamoDB**
-- Developed Python-based web and app tiers for **asynchronous image processing**
-- Designed a custom **autoscaling controller**
-- Built a **federated learning pipeline** with EC2 workers, Lambda aggregation, and S3-based model exchange
-- Integrated edge/cloud workflows with **AWS IoT Greengrass** and **MQTT**
-
-### **Continual Learning for Image Classification**
-- Implemented **naive fine-tuning**, **EWC**, and **experience replay** in **PyTorch**
-- Reduced catastrophic forgetting on Split-MNIST
-- Built a modular training pipeline with configurable experimentation
-
-### **AgileScrumSDLC**
-- Built an end-to-end software development platform using **Agile Scrum**
-- Worked with **MongoDB**, **Jira/Taiga**, and complete testing workflows
-- Applied SDLC best practices in a collaborative environment
+<table>
+  <tr>
+    <td width="33%">
+      <h3 align="center">Elastic Face Recognition & Federated Learning</h3>
+      <p align="center">
+        AWS-based distributed architecture using <b>EC2, S3, SQS, DynamoDB, Lambda, IoT Greengrass</b>, and <b>MQTT</b>.
+      </p>
+      <p align="center">
+        Built asynchronous ML workflows, autoscaling logic, and federated learning pipelines.
+      </p>
+    </td>
+    <td width="33%">
+      <h3 align="center">Continual Learning for Image Classification</h3>
+      <p align="center">
+        Implemented <b>naive fine-tuning</b>, <b>EWC</b>, and <b>experience replay</b> in <b>PyTorch</b>.
+      </p>
+      <p align="center">
+        Reduced catastrophic forgetting and built a modular experimentation pipeline.
+      </p>
+    </td>
+    <td width="33%">
+      <h3 align="center">AgileScrumSDLC</h3>
+      <p align="center">
+        End-to-end software engineering platform built with <b>Agile Scrum</b>, <b>MongoDB</b>, and testing workflows.
+      </p>
+      <p align="center">
+        Applied SDLC best practices in a collaborative project environment.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📜 Certifications
+## <img src="https://img.icons8.com/color/28/prize.png" width="24"/> Certifications
 
 - AWS Academy Graduate — **Machine Learning for Natural Language Processing**
 - Oracle Cloud Infrastructure 2024 — **Generative AI Professional**
@@ -134,42 +168,34 @@ I enjoy turning ideas into reliable, efficient, and production-focused systems w
 
 ---
 
-## 📈 GitHub Stats
+## <img src="https://img.icons8.com/color/28/combo-chart--v1.png" width="24"/> GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hpate252&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hpate252&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpate252&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
-## 📊 Contributions
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hpate252&theme=tokyo-night&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=hpate252&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
 
-## 🔥 GitHub Streak
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=hpate252&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hpate252&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-## 🌱 Current Focus
+## <img src="https://img.icons8.com/color/28/goal.png" width="24"/> Current Focus
 
-- Backend engineering and scalable API development
-- Cloud-native systems and distributed architectures
-- Software testing, validation, and engineering best practices
-- Applied machine learning and intelligent systems
+```text
+Backend Engineering
+Cloud-Native Systems
+Distributed Architectures
+Software Testing & Validation
+Applied Machine Learning
 
----
-
-## 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/patelhetansh"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://myportfolio-hetanshp.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel"/></a>
-  <a href="mailto:hpate252@asu.edu"><img src="https://img.shields.io/badge/Email-Reach%20Out-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+<img src="https://img.icons8.com/color/28/handshake.png" width="24"/> Connect With Me
+<p align="center"> <a href="https://www.linkedin.com/in/patelhetansh"> <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue?style=for-the-badge&logo=linkedin"/> </a> <a href="https://myportfolio-hetanshp.netlify.app/"> <img src="https://img.shields.io/badge/Portfolio-Explore-black?style=for-the-badge&logo=vercel"/> </a> <a href="mailto:hpate252@asu.edu"> <img src="https://img.shields.io/badge/Email-Reach%20Out-red?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer"/> <p align="center"> <b><i>Building reliable software, exploring modern technologies, and growing through engineering.</i></b> </p> ```
 
 ---
 
