@@ -163,7 +163,7 @@ I enjoy turning ideas into reliable, efficient, and production-focused systems w
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpate252&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
-## 📈 Contribution Calendar
+## 📊 Contribution Calendar
 
 <p align="center">
   <img src="https://github-contribution-graph.ez4o.com/?username=hpate252&last_n_days=365" />
