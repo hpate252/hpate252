@@ -155,6 +155,11 @@ I enjoy turning ideas into production-focused systems with strong engineering fu
 </p>
 
 ---
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=hpate252&theme=tokyonight&hide_border=true" />
+</p>
 
 ## 🌱 Current Focus
 
