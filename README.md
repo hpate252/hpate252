@@ -39,11 +39,10 @@ I enjoy turning ideas into production-focused systems with strong engineering fu
 
 - **Arizona State University** — Master's in Computer Science  
   `Aug 2025 - May 2027`  
-  GPA: **3.78/4.0**
 
 - **IITE (Indus University)** — Bachelor's in Computer Science  
   `Aug 2021 - Jun 2025`  
-  GPA: **3.67/4.0**
+  
 
 ---
   
