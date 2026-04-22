@@ -164,7 +164,7 @@ I enjoy turning ideas into reliable, efficient, and production-focused systems w
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?username=hpate252&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hpate252&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
