@@ -147,7 +147,7 @@ I enjoy turning ideas into production-focused systems with strong engineering fu
 
 ## 📈 Contribution Calendar
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hpate252&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hpate252&theme=react-dark&bg_color=00000000&color=4F8EF7&line=4F8EF7&point=FFFFFF&hide_border=true" width="100%" />
 </p>
 
 ## 🔥 GitHub Streak
