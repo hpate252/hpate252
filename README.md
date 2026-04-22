@@ -12,18 +12,26 @@
 
 ---
 
-## 🚀 About Me
+## <img src="https://img.icons8.com/fluency/28/about.png" width="24"/> About Me
 
-I’m a **Master’s student in Computer Science at Arizona State University** and a software engineer passionate about building **scalable backend systems**, **cloud-native applications**, and **machine learning-driven solutions**.
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-My interests include:
-- **Software Engineering**
-- **Backend Development**
-- **Cloud Infrastructure**
-- **Distributed Systems**
-- **Applied Machine Learning**
+I’m a **Master’s student in Computer Science at Arizona State University** and a software engineer focused on building:
 
-I enjoy turning ideas into reliable, efficient, and production-focused systems with strong engineering fundamentals in **system design**, **APIs**, **databases**, **testing**, and **scalable architecture**.
+- scalable **backend systems**
+- robust **cloud-native applications**
+- reliable **distributed systems**
+- impactful **machine learning solutions**
+
+I enjoy turning ideas into production-focused systems with strong engineering fundamentals in **system design, APIs, databases, testing, software architecture, and performance**.
+
+### What I’m focused on
+- Backend Engineering and API Development
+- Cloud Infrastructure and Distributed Systems
+- Software Testing and Engineering Best Practices
+- Applied Machine Learning and Intelligent Systems
+
+<br clear="right"/>
 
 ---
 
