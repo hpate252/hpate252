@@ -165,10 +165,10 @@ I enjoy turning ideas into reliable, efficient, and production-focused systems w
 
 ## 📊 Contributions
 
+## 🔥 GitHub Streak
+
 <p align="center">
-  <a href="https://github.com/hpate252">
-    View my full contribution history on GitHub
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=hpate252&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
