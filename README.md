@@ -173,7 +173,7 @@ I enjoy turning ideas into production-focused systems with strong engineering fu
 
 ## 🤝 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/patelhetansh"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
   <a href="https://myportfolio-hetanshp.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel"/></a>
   <a href="mailto:hpate252@asu.edu"><img src="https://img.shields.io/badge/Email-Reach%20Out-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
