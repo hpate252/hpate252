@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hetansh Patel</h1>
+  <h1 align="center">Hi 👋, I'm Hetansh Patel</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=4F8EF7&center=true&vCenter=true&width=900&lines=Master's+Student+in+Computer+Science+at+ASU;Software+Engineer+%7C+Backend+Developer+%7C+Cloud+Enthusiast;Building+Scalable+Systems%2C+APIs%2C+and+ML-Driven+Applications" alt="Typing SVG" />
@@ -36,28 +36,6 @@ I enjoy turning ideas into reliable, efficient, and production-focused systems w
 - **IITE (Indus University)** — Bachelor's in Computer Science  
   `Aug 2021 - Jun 2025`  
   GPA: **3.67/4.0**
-
----
-
-## 💼 Experience
-
-### **Graduate Student Assistant — Arizona State University**
-`Aug 2025 - Present`
-- Support software engineering instruction through **Java code reviews**
-- Evaluate **JUnit testing** integrations with **H2 Database**
-- Help students strengthen implementation, debugging, and software design skills
-
-### **Software Engineer — X-Logic**
-`Dec 2024 - Jul 2025`
-- Built a **Python + Flask** application for packaging material estimation
-- Reduced calculation errors and improved business workflow efficiency
-- Developed **REST APIs** for e-invoice automation and secure GST data retrieval
-
-### **Software Engineer Intern — Data Nectar Solutions**
-`May 2023 - Jun 2023`
-- Designed and optimized **SQL Server schemas**
-- Improved query performance through indexing and schema design
-- Built secure **PHP backend CRUD modules** for database-driven applications
 
 ---
 
