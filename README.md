@@ -164,6 +164,9 @@ I enjoy turning ideas into reliable, efficient, and production-focused systems w
 </p>
 
 ## 📊 Contributions
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hpate252&theme=tokyo-night&hide_border=true" />
+</p>
 
 ## 🔥 GitHub Streak
 
