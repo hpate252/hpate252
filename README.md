@@ -37,10 +37,10 @@ I enjoy turning ideas into production-focused systems with strong engineering fu
 
 ## 🎓 Education
 
-- **Arizona State University** — Master's in Computer Science  
+- **Arizona State University** - Master's in Computer Science  
   `Aug 2025 - May 2027`  
 
-- **IITE (Indus University)** — Bachelor's in Computer Science  
+- **IITE (Indus University)** - Bachelor's in Computer Science  
   `Aug 2021 - Jun 2025`  
   
 
@@ -133,9 +133,9 @@ I enjoy turning ideas into production-focused systems with strong engineering fu
 
 ## 📜 Certifications
 
-- AWS Academy Graduate — **Machine Learning for Natural Language Processing**
-- Oracle Cloud Infrastructure 2024 — **Generative AI Professional**
-- Microsoft Certified — **Azure Fundamentals**
+- AWS Academy Graduate - **Machine Learning for Natural Language Processing**
+- Oracle Cloud Infrastructure 2024 - **Generative AI Professional**
+- Microsoft Certified - **Azure Fundamentals**
 - **Ethical Hacking**
 - **Introduction to Programming Using Python**
 
