@@ -1,115 +1,99 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=4F8EF7&center=true&vCenter=true&width=900&lines=SYSTEM+INITIALIZED...;HETANSH+PATEL+v2.0;BACKEND+ARCHITECT+|+ASU+CS" alt="Typing SVG" />
-</h1>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/RANK-MASTER_STUDENT-gold?style=for-the-badge&logo=starship" />
-  <img src="https://img.shields.io/badge/CLASS-BACKEND_WIZARD-blueviolet?style=for-the-badge&logo=fortinet" />
-  <img src="https://img.shields.io/badge/SERVER-ASU_ARIZONA-8E2430?style=for-the-badge&logo=almamater" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=000000&height=250&section=header&text=HETANSH%20PATEL&fontSize=70&fontAlignY=45&animation=twinkling&desc=SYSTEM%20ARCHITECT%20::%20VERSION%202.5.0&descSize=20&descAlignY=65&fontColor=4F8EF7" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/patelhetansh"><img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://myportfolio-hetanshp.netlify.app/"><img src="https://img.shields.io/badge/-PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="mailto:hpate252@asu.edu"><img src="https://img.shields.io/badge/-EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE_DEVELOPER-00FF41?style=for-the-badge&logo=target&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/LOCATION-TEMPE_AZ-4F8EF7?style=for-the-badge&logo=googlemaps&logoColor=4F8EF7" />
+  <img src="https://img.shields.io/badge/RANK-MASTER_OF_CS-FFD700?style=for-the-badge&logo=starship&logoColor=FFD700" />
 </p>
 
 ---
 
-## 💠 PLAYER_PROFILE // ABOUT_ME
-
+## ⚡ SYSTEM_OVERVIEW
 <table border="0">
   <tr>
-    <td width="60%">
-      <p align="left">
-        <b>> IDENTITY:</b> Master’s student @ Arizona State University<br>
-        <b>> CORE_DIRECTIVE:</b> Architecting high-availability distributed systems.<br>
-        <b>> SPECIALIZATION:</b> Scalable APIs, Cloud-Native Infra, and Federated Learning.<br><br>
-        <i>"Turning complex algorithmic logic into production-ready reality. My approach is rooted in the SOLID principles and a relentless pursuit of performance optimization."</i>
-      </p>
+    <td width="50%">
+      <h3>📂 PRIMARY_OBJECTIVES</h3>
+      <ul>
+        <li><b>Scalable Backend Engineering</b> [98%]</li>
+        <li><b>Cloud Native Infrastructure</b> [92%]</li>
+        <li><b>Distributed Intelligence</b> [88%]</li>
+        <li><b>Systems Validation & QA</b> [95%]</li>
+      </ul>
     </td>
-    <td width="40%">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZ3R5cmZicG9qcG01bmpxZ3R5cmZicG9qcG01bmpxZ3R5cmZicG9qcG0mZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
+    <td width="50%">
+      <h3>💾 CURRENT_RUNTIME</h3>
+      <code><b>OS:</b> Arizona State University</code><br/>
+      <code><b>GPA:</b> 3.78 // HONOR_ROLL</code><br/>
+      <code><b>FOCUS:</b> High-Performance Computing</code><br/>
+      <code><b>UPTIME:</b> 2021 - PRESENT</code>
     </td>
   </tr>
 </table>
 
 ---
 
-## ⚡ ATTRIBUTE_POINTS // SKILLS
+## 🛠️ TECH_LOADOUT
 
-### 🧠 CORE_LOGIC (Languages)
-`PYTHON` ▓▓▓▓▓▓▓▓▓▓ 95%  
-`JAVA` ▓▓▓▓▓▓▓▓░░ 85%  
-`C++` ▓▓▓▓▓▓▓░░░ 75%  
-`TYPESCRIPT` ▓▓▓▓▓▓░░░░ 60%
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,ts,nodejs,flask,django,react,nextjs,pytorch,tensorflow,aws,azure,docker,kubernetes,mongodb,postgres,redis,git,postman" />
+</p>
 
-### 🛠️ INFRASTRUCTURE_MODULES (Tech Stack)
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,git,mongodb,postgres,redis,flask,django,pytorch&perline=6" />
+### 🔋 ENERGY_LEVELS (Core Competencies)
+<p align="left">
+  <b>BACKEND_SYSTEMS</b>
+  <br/>
+  <img src="https://geps.dev/progress/95?dangerColor=4F8EF7&warningColor=4F8EF7&successColor=4F8EF7" />
+</p>
+<p align="left">
+  <b>CLOUD_COMPUTING</b>
+  <br/>
+  <img src="https://geps.dev/progress/88?dangerColor=4F8EF7&warningColor=4F8EF7&successColor=4F8EF7" />
+</p>
+<p align="left">
+  <b>MACHINE_LEARNING</b>
+  <br/>
+  <img src="https://geps.dev/progress/82?dangerColor=4F8EF7&warningColor=4F8EF7&successColor=4F8EF7" />
 </p>
 
 ---
 
-## 📂 MISSION_LOGS // FEATURED_PROJECTS
+## ⚔️ COMPLETED_MISSIONS (Top Projects)
 
-<details open>
-<summary><b>PROJ_01: ELASTIC_FACE_RECOGNITION (Distributed System)</b></summary>
-<br>
-<blockquote>
-  <b>STORYLINE:</b> Engineered a multi-tier AWS architecture utilizing EC2, S3, and DynamoDB. <br>
-  <b>LOOT:</b> Developed a custom autoscaling controller & Federated Learning pipeline with IoT Greengrass integration.
-</blockquote>
-</details>
+> [!IMPORTANT]
+> ### 🛰️ MISSION: ELASTIC_FACE_RECOGNITION
+> **DEPLOYMENT:** AWS Distributed Architecture (EC2, S3, SQS, DynamoDB)
+> **INTEL:** Built a self-healing, auto-scaling system for real-time image processing with integrated Federated Learning nodes.
 
-<details>
-<summary><b>PROJ_02: CONTINUAL_LEARNING_PIPELINE (Machine Learning)</b></summary>
-<br>
-<blockquote>
-  <b>STORYLINE:</b> Combating catastrophic forgetting in neural networks using EWC and Experience Replay. <br>
-  <b>LOOT:</b> Modular PyTorch framework for Split-MNIST benchmarks.
-</blockquote>
-</details>
+> [!TIP]
+> ### 🧠 MISSION: CONTINUAL_LEARNING_PIPELINE
+> **DEPLOYMENT:** PyTorch / Split-MNIST
+> **INTEL:** Successfully mitigated catastrophic forgetting in neural networks using Elastic Weight Consolidation (EWC).
 
 ---
 
-## 🏆 ACHIEVEMENTS // CERTIFICATIONS
-
-| LVL | CERTIFICATION | ISSUER |
-| :--- | :--- | :--- |
-| 🛡️ | **Generative AI Professional** | Oracle Cloud |
-| ☁️ | **Azure Fundamentals** | Microsoft |
-| 🤖 | **ML for Natural Language Processing** | AWS Academy |
-| 🕵️ | **Ethical Hacking** | Certified |
-
----
-
-## 📊 SYSTEM_ANALYTICS // GITHUB_STATS
+## 📊 REAL_TIME_METRICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hpate252&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpate252&layout=compact&theme=tokyonight&hide_border=true" width="38%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hpate252&show_icons=true&theme=transparent&font_color=4F8EF7&title_color=white&icon_color=4F8EF7&hide_border=true&count_private=true" width="480" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hpate252&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=hpate252&theme=tokyonight&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hpate252&theme=react-dark&bg_color=00000000&color=4F8EF7&line=4F8EF7&point=FFFFFF&hide_border=true" width="100%" />
 </p>
 
 ---
 
-## 📡 UPLINK // CONNECT
+## 📡 UPLINK_CHANNELS
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/patelhetansh">
-    <img src="https://img.shields.io/badge/ESTABLISH_CONNECTION-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  <a href="https://www.linkedin.com/in/patelhetansh"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp;
+  <a href="mailto:hpate252@asu.edu"><img src="https://img.shields.io/badge/SECURE_MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> &nbsp;
+  <a href="https://myportfolio-hetanshp.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 <p align="center">
-  <code>STATUS: AVAILABLE_FOR_OPPORTUNITIES</code><br>
-  <code>LOCATION: TEMPE, AZ (UTC-7)</code>
+  <img src="https://forthebadge.com/images/featured/featured-built-with-love.svg" height="25">
+  <img src="https://forthebadge.com/images/featured/featured-cyberpunk-2077.svg" height="25">
 </p>
