@@ -1,175 +1,169 @@
-<div align="center">
+<p align="center">
+  <a href="https://myportfolio-hetanshp.netlify.app/">
+    <img src="assets/neofetch.svg" alt="Hetansh Patel — neofetch-style profile with ASCII portrait" width="900"/>
+  </a>
+</p>
 
-# `hetansh@github:~$ ./hello`
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=4F8EF7&center=true&vCenter=true&width=900&lines=Master's+Student+in+Computer+Science+at+ASU;Software+Engineer+%7C+Backend+Developer+%7C+Cloud+Enthusiast;Building+Scalable+Systems%2C+APIs%2C+and+ML-Driven+Applications" alt="Typing SVG" />
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Software+Engineer+%7C+Backend+%7C+Distributed+Systems;M.S.+Computer+Science+%40+Arizona+State+University;Building+reliable+cloud+%2B+AI+systems;Turning+systems+problems+into+working+software" alt="Typing introduction" />
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patelhetansh)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-111111?style=flat-square&logo=vercel&logoColor=white)](https://myportfolio-hetanshp.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hpate252@asu.edu)
-
-</div>
-
-```text
-              .-+*#####*+-.                 hetansh@github
-            .+%%%@@@@@@@@@#-.                -------------------------------
-           .*%%%%#*######%@@%-               Role      Software Engineer
-           -@%+=-::::::--=*%@%               Education M.S. Computer Science @ ASU
-           :%%=-==-:::-====%@+               Focus     Backend • Cloud • Distributed Systems
-            =%*+**#*=**#*++##:               Building  Reliable + intelligent systems
-            -+--===+:=+====+*:               --------------------------------
-            .=--:--=-==----==                Languages Python • Java • C++ • SQL • JS/TS
-             .----=======-=-.                 Cloud     AWS • Docker • Kubernetes
-               -==------===                   Data      PostgreSQL • MongoDB • DynamoDB
-               .=+=--==+*+-                   ML        PyTorch • Transformers • OpenCV
-               .-=++****+=-..
-           .:==-----===---=-+#+-:.            $ status
-       .-=*#%%#=-----------=#%%%%%*+=:.       > building systems that survive the real world_ 
-   :=+#%%%%%%%%%*=------=+*%%%%%%%%%%%%#*-
-```
-
-<div align="center">
-
-### `> choose a path`
-
-[**⚡ Projects**](#-selected-builds) · [**🧠 What I Work On**](#-engineering-console) · [**📊 GitHub**](#-github-signal) · [**🤝 Connect**](#-lets-build)
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/patelhetansh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://myportfolio-hetanshp.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="mailto:hpate252@asu.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
-## `> engineering_console`
+## <img src="https://img.icons8.com/fluency/28/about.png" width="24"/> About Me
 
-```yaml
-currently:
-  learning: [distributed systems, systems ML, scalable backend architecture]
-  building: [cloud-native services, agentic AI systems, ML infrastructure]
-  care_about: [correctness, performance, reliability, clean interfaces]
+I'm a **Master's student in Computer Science at Arizona State University** and a software engineer focused on building:
 
-when_not_shipping:
-  - breaking systems to understand why they fail
-  - profiling slow paths
-  - turning research ideas into reproducible software
-```
+- scalable **backend systems**
+- robust **cloud-native applications**
+- reliable **distributed systems**
+- impactful **machine learning solutions**
 
-<details>
-<summary><b>🧰 Open my toolbox</b></summary>
-<br>
+I enjoy turning ideas into production-focused systems with strong engineering fundamentals in **system design, APIs, databases, testing, software architecture, and performance**.
 
-**Languages**  
-![Python](https://skillicons.dev/icons?i=python) ![Java](https://skillicons.dev/icons?i=java) ![C++](https://skillicons.dev/icons?i=cpp) ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts)
-
-**Backend · Data · ML**  
-![Flask](https://skillicons.dev/icons?i=flask) ![FastAPI](https://skillicons.dev/icons?i=fastapi) ![PyTorch](https://skillicons.dev/icons?i=pytorch) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![Redis](https://skillicons.dev/icons?i=redis)
-
-**Cloud · Infrastructure**  
-![AWS](https://skillicons.dev/icons?i=aws) ![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Linux](https://skillicons.dev/icons?i=linux) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github)
-
-</details>
+### What I'm focused on
+- Backend Engineering and API Development
+- Cloud Infrastructure and Distributed Systems
+- Software Testing and Engineering Best Practices
+- Applied Machine Learning and Intelligent Systems
 
 ---
 
-## `> selected_builds`
+## 🎓 Education
 
-<details open>
-<summary><b>☁️ Elastic Face Verification + Federated Learning</b> — distributed AWS/edge system</summary>
-<br>
+- **Arizona State University** - Master's in Computer Science  
+  `Aug 2025 - May 2027`  
 
-`AWS` `Python` `EC2` `S3` `SQS` `DynamoDB` `Lambda` `IoT Greengrass` `MQTT`
-
-- Engineered asynchronous web/app tiers for distributed ML inference.
-- Built a custom autoscaler capable of scaling the application tier from **0 → 15 EC2 instances**.
-- Coordinated **10 federated-learning workers** with Lambda aggregation and S3 model exchange.
-- Extended the pipeline to edge devices through Greengrass and MQTT.
-
-```text
-Client → Web Tier → SQS → Auto-scaled Workers → Inference
-                    │              │
-                    └── S3 ←───────┘ → DynamoDB
-                         ↑
-              FL Workers ×10 → Lambda Aggregator
-```
-</details>
-
-<details>
-<summary><b>🤖 MOSAIC Multi-Agent Coaching System</b> — agent orchestration + personalized AI</summary>
-<br>
-
-`Python` `FastAPI` `MongoDB` `AgentScope` `Qwen` `Transformers`
-
-- Built a multi-agent workflow spanning coordination, analysis, memory, planning, coaching, and summarization.
-- Integrated sensing, EMA, and memory context for personalized responses.
-- Evaluated outputs using Best-of-N, reward scoring, and LLM-as-judge pipelines.
-</details>
-
-<details>
-<summary><b>⚙️ MiniML Compiler</b> — MLIR/LLVM optimization pipeline</summary>
-<br>
-
-`C++` `MLIR` `LLVM` `ONNX` `PyTorch`
-
-- Implemented compiler passes including constant folding, dead-code elimination, fusion, and memory optimizations.
-- Reduced intermediate operations by **22%** and improved CNN inference latency by **17%** in evaluated workloads.
-</details>
-
-<details>
-<summary><b>👁️ EdgeVision</b> — edge object detection pipeline</summary>
-<br>
-
-`YOLOv8` `OpenCV` `ONNX` `TensorRT` `DeepStream`
-
-- Built a video inference pipeline around YOLOv8 and OpenCV.
-- Exported toward ONNX with an optimization path for TensorRT FP16/INT8 and edge deployment.
-</details>
+- **IITE (Indus University)** - Bachelor's in Computer Science  
+  `Aug 2021 - Jun 2025`  
 
 ---
 
-## `> github_signal`
+## 🛠 Tech Stack
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hpate252&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=hpate252&show_icons=true&hide_border=true&theme=default&rank_icon=github">
-    <img height="165" alt="Hetansh's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=hpate252&show_icons=true&hide_border=true">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hpate252&layout=compact&hide_border=true&theme=github_dark&langs_count=6">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hpate252&layout=compact&hide_border=true&theme=default&langs_count=6">
-    <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpate252&layout=compact&hide_border=true&langs_count=6">
-  </picture>
-</div>
+### **Languages**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hpate252&theme=github-compact&hide_border=true&area=true" width="95%" alt="Contribution graph" />
-</div>
+### **Frameworks & Libraries**
+<p>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</p>
 
-<details>
-<summary><b>🔥 Show streak</b></summary>
-<br>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=hpate252&hide_border=true&theme=transparent" alt="GitHub streak" />
-</div>
-</details>
+### **Cloud, DevOps & Tools**
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+  <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+### **Databases & APIs**
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_APIs-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+</p>
+
+### **Software Engineering**
+<p>
+  <img src="https://img.shields.io/badge/OOP-5C2D91?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SOLID_Principles-4B0082?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MVC-1E90FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Agile-FF4088?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-222222?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Unit_Testing-009688?style=for-the-badge"/>
+</p>
 
 ---
 
-## `> credentials --list`
+## 📌 Featured Projects
 
-`AWS Academy — ML for NLP` · `OCI Generative AI Professional` · `Microsoft Azure Fundamentals` · `Ethical Hacking` · `Python`
+### **Elastic Face Recognition & Federated Learning**
+- Built a scalable **AWS-based distributed system** using **EC2, S3, SQS, and DynamoDB**
+- Developed Python-based web and app tiers for **asynchronous image processing**
+- Designed a custom **autoscaling controller**
+- Built a **federated learning pipeline** with EC2 workers, Lambda aggregation, and S3-based model exchange
+- Integrated edge/cloud workflows with **AWS IoT Greengrass** and **MQTT**
+
+### **Continual Learning for Image Classification**
+- Implemented **naive fine-tuning**, **EWC**, and **experience replay** in **PyTorch**
+- Reduced catastrophic forgetting on Split-MNIST
+- Built a modular training pipeline with configurable experimentation
+
+### **AgileScrumSDLC**
+- Built an end-to-end software development platform using **Agile Scrum**
+- Worked with **MongoDB**, **Jira/Taiga**, and complete testing workflows
+- Applied SDLC best practices in a collaborative environment
 
 ---
 
-## `> let's_build`
+## 📜 Certifications
 
-<div align="center">
+- AWS Academy Graduate - **Machine Learning for Natural Language Processing**
+- Oracle Cloud Infrastructure 2024 - **Generative AI Professional**
+- Microsoft Certified - **Azure Fundamentals**
+- **Ethical Hacking**
+- **Introduction to Programming Using Python**
 
-I like hard engineering problems involving **backend systems, distributed infrastructure, cloud, and applied AI**.
+---
 
-[![LinkedIn](https://img.shields.io/badge/Let's_connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/patelhetansh)
-[![Portfolio](https://img.shields.io/badge/Explore_my_work-Portfolio-111111?style=for-the-badge&logo=vercel)](https://myportfolio-hetanshp.netlify.app/)
+## 📈 GitHub Stats
 
-```text
-$ echo "Thanks for visiting. Now go build something interesting." 
-```
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hpate252&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpate252&layout=compact&theme=transparent&hide_border=true&bg_color=00000000" height="170"/>
+</p>
 
-</div>
+## 📈 Contribution Calendar
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hpate252&theme=react-dark&bg_color=00000000&color=4F8EF7&line=4F8EF7&point=FFFFFF&hide_border=true" />
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=hpate252&theme=transparent&hide_border=true&background=00000000" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/patelhetansh"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://myportfolio-hetanshp.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel"/></a>
+  <a href="mailto:hpate252@asu.edu"><img src="https://img.shields.io/badge/Email-Reach%20Out-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building reliable software, exploring modern technologies, and continuously learning through engineering.</i>
+</p>
