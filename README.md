@@ -1,11 +1,7 @@
-<p align="center">
-  <a href="https://myportfolio-hetanshp.netlify.app/">
-    <img src="assets/neofetch.svg" alt="Hetansh Patel — neofetch-style profile with ASCII portrait" width="900"/>
-  </a>
-</p>
+<h1 align="center">Hi 👋, I'm Hetansh Patel</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=4F8EF7&center=true&vCenter=true&width=900&lines=Master's+Student+in+Computer+Science+at+ASU;Software+Engineer+%7C+Backend+Developer+%7C+Cloud+Enthusiast;Building+Scalable+Systems%2C+APIs%2C+and+ML-Driven+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=4F8EF7&center=true&vCenter=true&width=900&lines=Master's+Student+in+Computer+Science+at+ASU;Software+Engineer+%7C+Backend+Developer+%7C+Cloud+Enthusiast;Building+Scalable+Systems%2C+APIs%2C+and+ML-Driven+Applications" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,7 +14,9 @@
 
 ## <img src="https://img.icons8.com/fluency/28/about.png" width="24"/> About Me
 
-I'm a **Master's student in Computer Science at Arizona State University** and a software engineer focused on building:
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+I’m a **Master’s student in Computer Science at Arizona State University** and a software engineer focused on building:
 
 - scalable **backend systems**
 - robust **cloud-native applications**
@@ -27,11 +25,13 @@ I'm a **Master's student in Computer Science at Arizona State University** and a
 
 I enjoy turning ideas into production-focused systems with strong engineering fundamentals in **system design, APIs, databases, testing, software architecture, and performance**.
 
-### What I'm focused on
+### What I’m focused on
 - Backend Engineering and API Development
 - Cloud Infrastructure and Distributed Systems
 - Software Testing and Engineering Best Practices
 - Applied Machine Learning and Intelligent Systems
+
+<br clear="right"/>
 
 ---
 
@@ -42,9 +42,10 @@ I enjoy turning ideas into production-focused systems with strong engineering fu
 
 - **IITE (Indus University)** - Bachelor's in Computer Science  
   `Aug 2021 - Jun 2025`  
+  
 
 ---
-
+  
 ## 🛠 Tech Stack
 
 ### **Languages**
@@ -154,6 +155,16 @@ I enjoy turning ideas into production-focused systems with strong engineering fu
 
 ---
 
+## 🌱 Current Focus
+
+- Backend engineering and scalable API development
+- Cloud-native systems and distributed architectures
+- Software testing, validation, and engineering best practices
+- Applied machine learning and intelligent systems
+
+---
+
+
 ## 🤝 Connect With Me
 
 <p align="center">
@@ -167,3 +178,8 @@ I enjoy turning ideas into production-focused systems with strong engineering fu
 <p align="center">
   <i>Building reliable software, exploring modern technologies, and continuously learning through engineering.</i>
 </p>
+
+
+
+
+This is my current README for my GitHub so i want to make my image to the one in the github image like code and make more interactive like i hover or touch somthing visualy good effect
